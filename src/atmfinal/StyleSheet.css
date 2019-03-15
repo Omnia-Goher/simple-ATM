@@ -1,0 +1,58 @@
+
+
+.root{
+    -fx-background-color:linear-gradient(dimgray,darkgrey);
+}
+.label{
+    -fx-text-fill: lightgray;
+     -fx-font-size:xx-large ;
+    -fx-font-style:Normal;
+     
+}
+
+.button{
+    
+ -fx-font-size: 18;
+ -fx-background-color: linear-gradient(dimgrey,silver);
+ -fx-background-radius: 10;
+  -fx-text-fill: black;
+}
+
+.TextField {
+	 -fx-background-radius:20;
+	-fx-background-color: dimgray ;
+	-fx-font-size: 20;
+        -fx-text-fill: whitesmoke;
+        
+			      			      			     
+
+} 
+.Label1{
+    
+    -fx-text-fill: darkgreen;
+     -fx-font-size: large ;
+    -fx-font-style:Normal;
+}
+
+.Label2{
+    
+    -fx-text-fill: darkred;
+     -fx-font-size: large ;
+    -fx-font-style:Normal;
+}
+
+
+.Label3{
+    
+    -fx-text-fill: black;
+     -fx-font-size: x-large ;
+    -fx-font-style:Normal;
+}
+
+
+.Label4{
+    
+    -fx-text-fill: darkred;
+     -fx-font-size: xx-large ;
+    -fx-font-style:Normal;
+}
