@@ -1,6 +1,7 @@
 # simple-ATM
 
 ***Description***
+
 It is required to implement a simple ATM that supports the following:
  Withdrawal, Deposit and Balance Inquiry.
  History navigation through the last 5 transactions.
@@ -11,6 +12,7 @@ It is required to implement a simple ATM that supports the following:
 last two for history navigation)
 2. One label: to show either your current balance when hitting Balance Inquiry
 button or history navigation when hitting Previous or Next buttons.
+
  When hitting Withdraw or Deposit buttons, user should be navigated to another
 window to enter the amount. You can use buttons representing numbers from 0 to 9 to
 take the input and label to show it.
