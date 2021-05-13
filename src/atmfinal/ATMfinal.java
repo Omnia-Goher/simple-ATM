@@ -392,7 +392,7 @@ public class ATMfinal extends Application  //implements EventHandler<ActionEvent
             }
             else if (amountToWithdraw > atm.getCurrentBal())
             {
-                messageWithdraw.setText("You dont't have enough money ! Try agian .");
+             messageWithdraw.setText("you can't withdraw amount!");
                 messageWithdraw.getStyleClass().add("Label2");
             }
             else
